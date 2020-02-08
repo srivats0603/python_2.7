@@ -9,3 +9,7 @@ general example problems in Python 2.7
 - "readCfgParser.py" is for reading a text config file using configparser library.
 - "readYAML.py" is for reading a simple config file stored in YAML format.
 - "testLogger.py" is for testing the logging library "json_log_formatter" which logs json messages into a text log file.
+
+folders
+- math examples- some scripts using numpy library, from simple testing to matrix operations to Gaussian Elimination
+- createPackages - example for creating a python package having many (logically connected) .py files
